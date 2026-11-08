@@ -1,0 +1,4 @@
+apc
+*.o
+a.out
+APCC/
